@@ -1,0 +1,13 @@
+package heapmemory;
+
+public class warrior {
+	// hp,mp,lv,atk,def,exp;
+	// 선언
+	public int hp;
+	public int mp;
+	public int lv;
+	public int atk;
+	public int def;
+	public int exp;
+	
+}

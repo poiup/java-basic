@@ -1,0 +1,6 @@
+package game.polymorphism;
+
+public class Main02 {
+	Commoner c1 = new Commoner("모험가");
+	Monster slime1 = new Slime();
+}

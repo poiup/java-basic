@@ -1,0 +1,21 @@
+package game.intercation;
+
+public class Achor {
+	private int hp;
+	private int mp;
+	private int atk;
+	private int def;
+	private int exp;
+	private int lv;
+	private int arrow;
+	
+	public Achor() {
+		hp = 20;
+		mp = 0;
+		atk = 12;
+		def = 1;
+		exp = 0;
+		lv = 1;
+		arrow = 5;
+	}
+}

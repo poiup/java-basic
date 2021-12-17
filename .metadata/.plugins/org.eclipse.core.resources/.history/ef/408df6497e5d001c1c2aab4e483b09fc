@@ -1,0 +1,19 @@
+package game.accessmodifier;
+
+public class Warrior extends Commoner {
+	public Warrior(String name) {
+		super(name);
+	}
+	
+	public void doubleAttack() {
+		System.out.println("전사가 더블어택을 사용합니다.");
+		setExp(getExp()+25);
+		setHp(getHp()-4);
+	}
+	
+	public void hunt() {
+		System.out.println("전사가 사냥을 시작합니다.");
+		setHp(getHp()-2);
+		setExp(getExp()+10);
+	}
+}

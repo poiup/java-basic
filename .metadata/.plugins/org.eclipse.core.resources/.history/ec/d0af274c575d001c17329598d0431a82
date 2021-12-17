@@ -1,0 +1,5 @@
+package game.inhertance;
+
+public class Main03 {
+	Magician m1 = new magician("마법사1");
+}

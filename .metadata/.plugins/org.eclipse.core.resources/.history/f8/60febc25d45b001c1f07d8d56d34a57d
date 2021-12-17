@@ -1,0 +1,13 @@
+package accessmodfifer.Warrior;
+
+import accessmodifier.Warrior;
+
+public class Main02p197 {
+	Warrior w1 = new Warrior("w1");
+	w1.hp =
+	w1.hunt();
+	w1.hunt();
+	w1.hunt();
+	
+	w1.status();
+}

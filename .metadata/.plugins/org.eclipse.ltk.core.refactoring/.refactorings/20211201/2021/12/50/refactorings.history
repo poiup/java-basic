@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;overflow&apos; to &apos;Overflow&apos;&#x0D;&#x0A;- Original project: &apos;20211201&apos;&#x0D;&#x0A;- Original element: &apos;overflow&apos;&#x0D;&#x0A;- Renamed element: &apos;Overflow&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;overflow&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{overflow.java[overflow" matchStrategy="1" name="Overflow" qualified="false" references="true" similarDeclarations="false" stamp="1638949280405" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,23 @@
+package game.intercation;
+
+public class Magician {
+	private int hp;
+	private int mp;
+	private int atk;
+	private int def;
+	private int exp;
+	private int lv;
+	
+	public Magician () {
+		hp = 30;
+		mp = 130;
+		atk = 14;
+		def = 0;
+		exp = 0;
+		lv = 9;
+	}
+	
+	public void huntOrc() {
+		this.mp -= 15;
+	}
+}

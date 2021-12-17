@@ -1,0 +1,18 @@
+package polymorphism;
+
+public class Student extends Person {
+
+	// 학생의 등급인 grade를 선언합니다.
+	private int grade;
+	
+	public Student (String name, int grade, int age) {
+		super(name,age);
+		this.grade = grade;
+	}
+	
+	public void showPerson() {
+		// 부모쪽 showPerson호출
+		super.showPerson();
+		System.out.println("학생의 성적 : " +grade);
+	}
+}

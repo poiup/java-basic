@@ -1,0 +1,7 @@
+package overloading;
+
+public class calculator {
+	public void plus (int a) {
+		System.out.println(a + "에 1을 더한 값은 " + (a+1) + "입니다");
+	}
+}

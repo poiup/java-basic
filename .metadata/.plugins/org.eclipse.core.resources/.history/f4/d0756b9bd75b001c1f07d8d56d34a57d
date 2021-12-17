@@ -1,0 +1,13 @@
+package accessmodifier;
+
+public class MainP197 {
+	public static void main(String[] args) {		
+		Warrior w1 = new Warrior("w1");
+		w1.hp = 100000;
+		w1.hunt();
+		w1.hunt();
+		w1.hunt();
+		
+		w1.status();
+	}
+}

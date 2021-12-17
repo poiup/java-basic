@@ -1,0 +1,7 @@
+package game.polymorphism;
+
+public class Rabbit extends Monster{
+	public Rabbit() {
+		super("rabbit", 1,1);
+	}
+}

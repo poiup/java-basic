@@ -1,0 +1,13 @@
+package inheritance;
+
+public class Main02P254 {
+	public static void main(String[] args) {
+		Salaryman sa1 = new Salaryman();
+		sa1.name = "안영재";
+		sa1.age = 30;
+		sa1.salary = 8000;
+		
+		sa1.getInfo();
+		sa1.getSalaryInfo();
+	}
+}

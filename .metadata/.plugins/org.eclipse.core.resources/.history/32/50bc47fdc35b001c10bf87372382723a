@@ -1,0 +1,25 @@
+package heapmemory;
+
+public class warrior {
+	// hp,mp,lv,atk,def,exp;
+	// 선언
+	public int hp;
+	public int mp;
+	public int lv;
+	public int atk;
+	public int def;
+	public int exp;
+	public String name;
+	
+	// 생성자를 만들어 주시되,
+	
+	public warrior (n) {
+		hp = 20;
+		mp = 10;
+		lv = 1;
+		atk = 3;
+		def = 0;
+		exp = 0;
+		name = n
+	}
+}

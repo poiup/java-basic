@@ -1,0 +1,10 @@
+package game.accessmodifier;
+
+public class Commoner {
+	private int lv;
+	private int hp;
+	private int maxHp;
+	private int mp;
+	private int maxMp;
+	private String name;
+}

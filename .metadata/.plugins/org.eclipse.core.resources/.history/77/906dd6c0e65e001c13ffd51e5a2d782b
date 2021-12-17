@@ -1,0 +1,8 @@
+package polymorphism;
+
+public class Streamer extends Person{
+	// viwer
+	private int viwer;
+	
+	
+}

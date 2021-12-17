@@ -1,0 +1,10 @@
+package constructor;
+
+public class Main02p204 {
+	public static void main(String[] args) {
+		BaketballPlayer bbp = new BaketballPlayer(280,100);
+		bbp.dunkShoot();
+		BaskerballPlayer bp = new BasketballPlayer(180,100);
+		bp.dunkShoot();
+	}
+}

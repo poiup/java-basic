@@ -1,0 +1,18 @@
+package interaction;
+
+public class Seller {
+	private int money;
+	private int mango;
+	
+	public Seller(int mango) {
+		this.money = 0;
+		this.mango = mango;
+	}
+	
+	sellMango(int mango){
+		this.mango = mango * 5000; 
+		if (mango > this.mango) {
+			System.out.println("망고가 모자랍니다.");
+		}
+	}
+}

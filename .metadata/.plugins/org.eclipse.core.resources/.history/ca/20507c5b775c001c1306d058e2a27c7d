@@ -1,0 +1,11 @@
+package overriding;
+
+public class Animal {
+	public String size;
+	public String color;
+	public String age;
+	
+	public void howl() {
+		System.out.println("동물이 웁니다.");
+	}
+}

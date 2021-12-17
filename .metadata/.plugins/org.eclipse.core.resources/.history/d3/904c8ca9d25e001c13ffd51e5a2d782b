@@ -1,0 +1,41 @@
+package interaction;
+public class Buyer {
+	private int money;
+	private int mango;
+	private int apple;
+	
+	public Buyer(int money) {
+		this.money = money;
+		this.mango = 0;
+		this.apple = 0;
+	}
+	
+	public void buyMango(int mango, Seller seller) {	
+		if( seller.getMango() < mango) {
+			System.out.println("망고의 재고가 부족하여 구매할수 없습니다.");
+		} else {
+			System.out.println("망고를 " + mango + "개 구매합니다");
+			money -= mango * 4000;
+			mango += mango;
+		}
+		seller.sellMango(mango);
+	}
+	
+	public void buyApple(int apple, Seller seller) {	
+		if( seller.getApple() < apple) {
+			System.out.println("사과의 재고가 부족하여 구매할수 없습니다.");
+		} else {
+			System.out.println("사과를 " + apple + "개 구매합니다");
+			money -= money * 2000;
+			apple += apple;
+		}
+		seller.sellApple(apple);
+	}
+	
+	public void showBuyer() {
+		System.out.println();
+		System.out.println("-----------------구매자정보--------------");
+		System.out.println("소지금 : " + this.money + ", 망고재고 : " + this.mango + ", 사과재고 : " + this.apple);
+		System.out.println("------------------------------------");
+	}
+}

@@ -1,0 +1,13 @@
+package game.intercation;
+
+public class golem {
+	private int hp;
+	private int atk;
+	private int def;
+	
+	public golem () {
+		hp = 20;
+		atk = 3;
+		def = 8;
+	}
+}

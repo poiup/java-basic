@@ -1,0 +1,6 @@
+package interaction;
+
+public class Seller {
+	private int money;
+	private int mango;
+}

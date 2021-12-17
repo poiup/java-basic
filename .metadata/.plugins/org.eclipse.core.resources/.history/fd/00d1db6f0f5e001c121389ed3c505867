@@ -1,0 +1,11 @@
+package game.intercation;
+
+public class Troll {
+	private int hp;
+	private int atk
+	private int def;
+	
+	public void doBattle() {
+		
+	}
+}

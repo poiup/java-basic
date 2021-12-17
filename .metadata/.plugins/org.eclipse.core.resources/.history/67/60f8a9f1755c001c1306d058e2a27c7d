@@ -1,0 +1,5 @@
+package overriding;
+
+public class dog {
+	public int leg;
+}

@@ -1,0 +1,7 @@
+package garbagecollection;
+
+public class MainP201 {
+	// 6개 객체생성 
+	Item i1 = new Item(1);
+	Item i2 = new Item(2);
+}

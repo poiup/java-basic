@@ -1,0 +1,9 @@
+package game.intercation;
+
+public class Main03 {
+	public static void main(String[] args) {
+		Magician m1 = new Magician();
+		
+		m1.huntOrc(m1);
+	}
+}

@@ -1,0 +1,7 @@
+package game.polymorphism;
+
+public class Slime extends Monster {
+	public Slime("slime", 20, 1) {
+		super("slime", 20, 1);
+	}
+}

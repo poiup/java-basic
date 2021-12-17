@@ -1,0 +1,10 @@
+package polymorphism;
+
+public class Streamer extends Person{
+	// viewer
+	private int viewer;
+	
+	public Streamer(String name, int age, int viewer) {
+		
+	}
+}

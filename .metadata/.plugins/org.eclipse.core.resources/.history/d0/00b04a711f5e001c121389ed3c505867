@@ -1,0 +1,25 @@
+package game.intercation;
+
+public class Magician {
+	private int hp;
+	private int mp;
+	private int atk;
+	private int def;
+	private int exp;
+	private int lv;
+	
+	public Magician () {
+		hp = 10;
+		mp = 50;
+		atk = 10;
+		def = 0;
+		exp = 0;
+		lv = 1;
+	}
+	public void dead() {
+		System.out.println("마법사가 죽었습니다. 스텟이 초기화됩니다");
+	}
+	public void huntOrc() {
+		this.mp -= 15;
+	}
+}

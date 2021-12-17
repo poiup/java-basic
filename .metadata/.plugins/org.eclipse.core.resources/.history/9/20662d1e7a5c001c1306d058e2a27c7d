@@ -1,0 +1,5 @@
+package overriding;
+
+public class Bird extends Animal {
+	public boolean fly;
+}
