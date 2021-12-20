@@ -1,7 +1,0 @@
-package constructor;
-
-public class Main02p204 {
-	public static void main(String[] args) {
-		BasketballPlayer BBP = new BaketballPlayer
-	}
-}

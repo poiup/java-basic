@@ -1,8 +1,0 @@
-package constructor;
-
-public class Main02p204 {
-	public static void main(String[] args) {
-		BaketballPlayer BBP = new BaketballPlayer();
-		BBP.dunkShoot();
-	}
-}
