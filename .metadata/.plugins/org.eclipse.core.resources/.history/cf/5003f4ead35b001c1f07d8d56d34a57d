@@ -1,7 +1,0 @@
-package accessmodifier;
-
-public class accessmodifier {
-	public static void main(String[] args) {
-		
-	}
-}

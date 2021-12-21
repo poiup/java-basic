@@ -1,8 +1,0 @@
-package heapmemory;
-
-public class mainP197 {
-	public mainP197() {
-		
-		warrior w1 = new warrior("w1");
-	}
-}
