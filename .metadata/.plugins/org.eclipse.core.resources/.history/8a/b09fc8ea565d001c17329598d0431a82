@@ -1,5 +1,0 @@
-package game.inhertance;
-
-public class Archer {
-	private int rDam;
-}

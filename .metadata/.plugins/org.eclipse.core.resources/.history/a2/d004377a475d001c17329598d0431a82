@@ -1,9 +1,0 @@
-package game.inhertance;
-
-public class Magician extends Commoner {
-	private int mDam;
-	
-	public void getInfo() {
-		
-	}
-}

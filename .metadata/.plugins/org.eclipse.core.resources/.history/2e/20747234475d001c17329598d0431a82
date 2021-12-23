@@ -1,9 +1,0 @@
-package game.inhertance;
-
-public class Magician {
-	private int mDam;
-	
-	public void getInfo() {
-		
-	}
-}
