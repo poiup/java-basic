@@ -1,7 +1,0 @@
-package game.intercation;
-
-public class Orc {
-	private int hp;
-	private int atk;
-	private int def;
-}

@@ -1,6 +1,0 @@
-package game.intercation;
-
-public class Main04 {
-	Archer a1 = new Archer();
-	Golem g1 = new Golem
-}
