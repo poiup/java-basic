@@ -1,7 +1,0 @@
-package game.polymorphism;
-
-public class Bear {
-	public Bear() {
-		super("bear", 10,5);
-	}
-}
