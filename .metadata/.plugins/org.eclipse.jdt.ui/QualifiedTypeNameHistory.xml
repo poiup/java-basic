@@ -2,14 +2,20 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ScannerQ1p93"/>
     <fullyQualifiedTypeName name="structure.Car"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="accessmodifier.MainP197"/>
     <fullyQualifiedTypeName name="heterogeneous.Animal"/>
     <fullyQualifiedTypeName name="static2.Asean"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="String1.StringLogin"/>
+    <fullyQualifiedTypeName name="Math01.Math06"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="arrays1.Arrays02"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 </qualifiedTypeNameHistroy>
